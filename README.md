@@ -1,3 +1,7 @@
+This follows the [Serverless Stack Tutorial](https://serverless-stack.com).
+
+This is the client from Serverless Stack's repository at [https://github.com/AnomalyInnovations/serverless-stack-demo-client](https://github.com/AnomalyInnovations/serverless-stack-demo-client).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
